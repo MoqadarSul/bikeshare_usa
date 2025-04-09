@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+April 9th 2025
 
 ### Project Title
-Replace the Project Title
+Udacity's Final Project Explore US bikeshare 
 
 ### Description
 In this project, you will make use of Python to explore data related to bike
@@ -13,7 +13,10 @@ script that takes in raw input to create an interactive experience in the
 terminal to present these statistics.
 
 ### Files used
-Include the files used
+bikeshare.py - python based project
+chicago.csv - dataset used 
+new_york_city.csv - dataset used 
+washington.csv - dataset used 
 
 ### Credits
 This Project is Powered by UDACITY.
