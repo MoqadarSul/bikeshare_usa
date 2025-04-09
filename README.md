@@ -13,10 +13,10 @@ script that takes in raw input to create an interactive experience in the
 terminal to present these statistics.
 
 ### Files used
-bikeshare.py - python based project
-chicago.csv - dataset used 
-new_york_city.csv - dataset used 
-washington.csv - dataset used 
+* bikeshare.py - python based project
+* chicago.csv - dataset used 
+* new_york_city.csv - dataset used 
+* washington.csv - dataset used 
 
 ### Credits
 This Project is Powered by UDACITY.
