@@ -1,3 +1,4 @@
+'''importing required libraries'''
 import time
 import pandas as pd
 import numpy as np
@@ -169,7 +170,7 @@ def display_raw_data (df):
         user_typed = input('Press enter to display 5 rows of raw data, or type exit to leave ')
         
 
-
+'''main function to initiate program'''
 def main():
     while True:
         city, month, day = get_filters()
